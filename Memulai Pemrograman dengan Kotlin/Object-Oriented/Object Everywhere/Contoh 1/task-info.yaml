@@ -1,0 +1,19 @@
+type: theory
+custom_name: Contoh 1
+files:
+- name: src/App.kt
+  visible: true
+  text: |-
+    // main function
+    fun main() {
+        val company = "Dicoding"
+        println(company.reversed())
+        println(company.toUpperCase())
+        println(company.toLowerCase())
+    }
+  learner_created: false
+status: Solved
+feedback:
+  time: Mon, 22 Feb 2021 15:01:07 UTC
+record: -1
+post_submission_on_open: true
